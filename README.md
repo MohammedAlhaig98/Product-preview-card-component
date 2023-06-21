@@ -1,6 +1,6 @@
 # Order-summary-component
 
-## Site: 
+## Site: https://mohammedalhaig98.github.io/Product-preview-card-component/
 
 ## Features
 
